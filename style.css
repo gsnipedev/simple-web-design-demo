@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+.koulen{
+    font-family: 'Koulen', cursive;
+}
+.marker{
+    font-family: 'Permanent Marker', cursive;
+}
+.ubuntu{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.text-green{
+    color: #00916E;
+}
+.text-cream{
+    color: #FEEFE5;
+}
+.text-yellow{
+    color: #FFCF00;
+}
+.text-salmon{
+    color: #EE6123;
+}
+.text-tomato{
+    color: #FA003F;
+}
+
+.bg-green{
+    background-color: #00916E;
+}
+.bg-cream{
+    background-color: #FEEFE5;
+}
+.bg-yellow{
+    background-color: #FFCF00;
+}
+.bg-salmon{
+    background-color: #EE6123;
+}
+.bg-tomato{
+    background-color: #FA003F;
+}
+
+.text-fantasy{
+    font-family: fantasy;
+}
+
+
+ 
+
+
